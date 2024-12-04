@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vitepress dev",
     "build": "vitepress build",
-    "preview": "vitepress preview"
+    "preview": "vitepress preview",
+    "psh": "git add -A && git commit -m \"saved and pushed by pnpm\" && git push"
   }
 }

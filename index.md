@@ -8,17 +8,15 @@ hero:
   tagline: "Dokumentace k aplikaci Arad CNB"
   actions:
     - theme: brand
-      text: Začněte zde
+      text: Struktura a Funkce Aplikace
       link: /what
     - theme: alt
-      text: Pokračujde zde
+      text: Pracovní Postupy a Scénáře
       link: /how
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Co?
+    details: Zde jsou popsány jednotlivé části aplikace.
+  - title: Jak?
+    details: V této sekci jsou vysvětleny různé postupy a scénáře.
 ---

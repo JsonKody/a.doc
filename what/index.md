@@ -1,1 +1,1 @@
-# What?
+# Struktura a Funkce Aplikace

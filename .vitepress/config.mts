@@ -16,7 +16,7 @@ export default defineConfig({
       "/what/": [
         {
           text: "Struktura a Funkce Aplikace",
-          items: [{ text: "Struktura a Funkce Aplikace", link: "/index" }],
+          items: [{ text: "Homescreen", link: "/what/home" }],
         },
       ],
       "/how/": [
