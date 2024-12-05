@@ -8,21 +8,21 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: "Co?", link: "/what/index" },
-      { text: "Jak?", link: "/how/index" },
+      { text: "Struktura", link: "/structure/main" },
+      { text: "Postupy", link: "/procedures/main" },
     ],
 
     sidebar: {
-      "/what/": [
+      "/structure/": [
         {
           text: "Struktura a Funkce Aplikace",
-          items: [{ text: "Homescreen", link: "/what/home" }],
+          items: [{ text: "Základ", link: "/structure/main" }],
         },
       ],
-      "/how/": [
+      "/procedures/": [
         {
           text: "Pracovní Postupy a Scénáře",
-          items: [{ text: "Pracovní Postupy a Scénáře", link: "/index" }],
+          items: [{ text: "Základ", link: "/procedures/main" }],
         },
       ],
     },

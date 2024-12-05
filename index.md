@@ -9,14 +9,14 @@ hero:
   actions:
     - theme: brand
       text: Struktura a Funkce Aplikace
-      link: /what
+      link: /structure/main
     - theme: alt
       text: Pracovní Postupy a Scénáře
-      link: /how
+      link: /procedures/main
 
 features:
-  - title: Co?
+  - title: Struktura
     details: Zde jsou popsány jednotlivé části aplikace.
-  - title: Jak?
+  - title: Postupy
     details: V této sekci jsou vysvětleny různé postupy a scénáře.
 ---
