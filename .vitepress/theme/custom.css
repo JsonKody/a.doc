@@ -1,0 +1,20 @@
+img {
+   border: 2px solid #e6e7e9;
+   border-radius: 8px;
+   transition: border-color 150ms;
+}
+
+img:hover {
+   border-color: #bac0ca;
+}
+
+
+.dark img {
+   border: 2px solid #444b52;
+   border-radius: 8px;
+   transition: border-color 150ms;
+}
+
+.dark img:hover {
+   border-color: #9ab5ff;
+}
