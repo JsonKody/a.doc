@@ -16,7 +16,10 @@ export default defineConfig({
       "/structure/": [
         {
           text: "Struktura a Funkce Aplikace",
-          items: [{ text: "Základ", link: "/structure/main" }],
+          items: [
+            { text: "Základ", link: "/structure/main" },
+            { text: "Menu", link: "/structure/menu" },
+          ],
         },
       ],
       "/procedures/": [
